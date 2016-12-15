@@ -14,31 +14,31 @@ function TCSpawner.addItems(_keyPressed)
 		local inv = player:getInventory(); --[ Java: access player's inventory
 	
 		--[ Java: add the actual items to the inventory
-		inv:addItem("Base.HammerStone");
-		inv:addItem("Base.AxeStone");
-		inv:addItem("Base.Sledgehammer");
-		inv:addItem("Base.Saw");
-		inv:addItem("Base.NailsBox");
+		inv:AddItem("Base.HammerStone");
+		inv:AddItem("Base.AxeStone");
+		inv:AddItem("Base.Sledgehammer");
+		inv:AddItem("Base.Saw");
+		inv:AddItem("Base.NailsBox");
 	end
 	if _keyPressed == 80 then
 		local player = getSpecificPlayer(0);
 		local inv = player:getInventory();
 		
-		inv:addItem("Base.Needle");
-		inv:addItem("Base.Thread");
+		inv:AddItem("Base.Needle");
+		inv:AddItem("Base.Thread");
 	end
 	if _keyPressed == 81 then
 		local player = getSpecificPlayer(0);
 		local inv = player:getInventory();
 		
-		inv:addItem("Base.Duffelbag");
+		inv:AddItem("Base.Duffelbag");
 	end
 	if _keyPressed == 75 then
 		local player = getSpecificPlayer(0);
 		local inv = player:getInventory();
 		
-		inv:addItem("Base.Padlock");
-		inv:addItem("Base.ElectronicsMag4");
+		inv:AddItem("Base.Padlock");
+		inv:AddItem("Base.ElectronicsMag4");
 	end
 end
 
