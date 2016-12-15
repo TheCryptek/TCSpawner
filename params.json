@@ -1,0 +1,6 @@
+{
+  "name": "TCSpawner",
+  "tagline": "A custom item spawner for my solo play throughs",
+  "body": "### What is TCSpawner?\r\n\r\nTCSpawner is a mod for ProjectZomboid that spawns a specific set of items. I got the idea to start working on it after using NecroForge. After working on it and getting it working as a first release and version, I decided to turn it into a full fledge mod for ProjectZomboid instead of just some personal solo play through spawner.\r\n\r\n### Features\r\n\r\n- NumPad 1: Gives the player a stone hammer, stone axe, sledge hammer, saw, and box of nails.\r\n- NumPad 2: Gives the player needle and thread.\r\n- NumPad 3: Gives the player a duffelbag\r\n- NumPad 4: Gives the player a padlock and the 'How to use a generator' magazine.\r\n\r\n### Special Thanks:\r\n\r\n[EnigmaGrey][1]: For pointing out my simple error and helping me solve it when I didn't understand the error\r\n\r\n[1]: https://theindiestone.com/forums/index.php?/profile/10-enigmagrey/",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
