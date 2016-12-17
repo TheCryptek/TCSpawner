@@ -5,10 +5,10 @@ I use this mod while developing other mods to make sure my items work when spawn
 ### Features
 
 - NumPad 1: Gives the player a custom duffelbag
-- NumPad 2: Gives the player a generator and a "How to use the generator" magazine
-- NumPad 3: Gives the player a gas can
-- NumPad 4: Gives the player a box of nails
-- NumPad 5: Gives the player a custom stone axe, hunting knife, hammer, sledgehammer, screwdriver, and a saw from the base game
+- NumPad 2: Gives the player a generator and a "How to use the generator" magazine from the base game
+- NumPad 3: Gives the player a gas can from the base game
+- NumPad 4: Gives the player a box of nails from the base game
+- NumPad 5: Gives the player a custom stone axe, hunting knife, hammer, sledgehammer, screwdriver, and a saw
 - NumPad 6: Gives the player a custom shovel
 
 ### Special Thanks:
