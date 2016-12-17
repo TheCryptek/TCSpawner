@@ -122,7 +122,7 @@ module TCSpawner
 	
 	item Sledgehammer
 	{
-		MaxRange	=	0,
+		MaxRange	=	1.9,
 		WeaponSprite	=	Sledgehammer,
 		MinAngle	=	0.2,
 		Type	=	Weapon,
@@ -131,7 +131,7 @@ module TCSpawner
 		KnockBackOnNoDeath	=	TRUE,
 		SwingAmountBeforeImpact	=	0.04,
 		Categories	=	Blunt,
-		Weight	=	6,
+		Weight	=	0,
 		SplatNumber	=	1,
 		PushBackMod	=	1,
 		MaxDamage	=	3,
@@ -160,7 +160,7 @@ module TCSpawner
 	
 	item Screwdriver
 	{
-		MaxRange	=	0,
+		MaxRange	=	0.9,
 		WeaponSprite	=	Knife,
 		MinAngle	=	0,
 		Type	=	Weapon,
@@ -168,7 +168,7 @@ module TCSpawner
 		KnockBackOnNoDeath	=	FALSE,
 		SwingAmountBeforeImpact	=	0.02,
 		Categories	=	Improvised;Blade,
-		Weight	=	0.4,
+		Weight	=	0,
 		SplatNumber	=	0,
 		PushBackMod	=	0.3,
 		MaxDamage	=	0.5,
@@ -228,5 +228,14 @@ module TCSpawner
 		KnockdownMod	=	2,
         KnockBackOnNoDeath	=	TRUE,
         MetalValue = 70,
+	}
+	
+	item Saw
+	{
+		Weight	=	0,
+		Type	=	Normal,
+		DisplayName	=	Saw,
+		Icon	=	Hacksaw,
+		MetalValue = 35,
 	}
 }

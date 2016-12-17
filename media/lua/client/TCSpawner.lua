@@ -44,7 +44,7 @@ function TCSpawner.addItems(_keyPressed)
 		inv:AddItem("TCSpawner.Hammer");
 		inv:AddItem("TCSpawner.Sledgehammer");
 		inv:AddItem("TCSpawner.Screwdriver");
-		inv:AddItem("Base.Saw");
+		inv:AddItem("TCSpawner.Saw");
 	end
 	if _keyPressed == 77 then
 		local player = getSpecificPlayer(0);
