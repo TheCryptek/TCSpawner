@@ -1,5 +1,5 @@
 # TCSpawner
-A custom item spawner for my solo play throughs
+I use this mod while developing other mods to make sure my items work when spawned via TCSpawner, it is recommended that you do not use this mod unless you want to cheat items in from my mods. The only items that get spawned in are items from my mods [and for now just a few items from the base game]. 
 
 # To-Do List
  - [X] Fix an error stopping the mod from working
