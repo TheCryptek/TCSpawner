@@ -51,7 +51,6 @@ function TCSpawner.addItems(_keyPressed)
 		local inv = player:getInventory();
 		
 		inv:AddItem("TCSpawner.Shovel");
-		inv:AddItem("Base.WateredCan");
 	end
 end
 
