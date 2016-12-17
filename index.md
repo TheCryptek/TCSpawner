@@ -1,13 +1,15 @@
 ### What is TCSpawner?
 
-TCSpawner is a mod for ProjectZomboid that spawns a specific set of items. I got the idea to start working on it after using NecroForge. After working on it and getting it working as a first release and version, I decided to turn it into a full fledge mod for ProjectZomboid instead of just some personal solo play through spawner.
+I use this mod while developing other mods to make sure my items work when spawned via TCSpawner, it is recommended that you do not use this mod unless you want to cheat items in from my mods. The only items that get spawned in are items from my mods [and for now just a few items from the base game].
 
 ### Features
 
-- NumPad 1: Gives the player a stone hammer, stone axe, sledge hammer, saw, and box of nails.
-- NumPad 2: Gives the player needle and thread.
-- NumPad 3: Gives the player a duffelbag
-- NumPad 4: Gives the player a padlock and the 'How to use a generator' magazine.
+- NumPad 1: Gives the player a custom duffelbag
+- NumPad 2: Gives the player a generator and a "How to use the generator" magazine
+- NumPad 3: Gives the player a gas can
+- NumPad 4: Gives the player a box of nails
+- NumPad 5: Gives the player a custom stone axe, hunting knife, hammer, sledgehammer, screwdriver, and a saw from the base game
+- NumPad 6: Gives the player a custom shovel
 
 ### Special Thanks:
 
