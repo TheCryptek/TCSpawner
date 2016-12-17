@@ -1,0 +1,8 @@
+title: TCSpawner
+description: A custom item spawner for my solo play throughs
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
